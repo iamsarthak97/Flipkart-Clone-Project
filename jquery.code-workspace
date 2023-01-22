@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "../jquery"
+		},
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"liveServer.settings.port": 5501
+	}
+}
